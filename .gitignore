@@ -29,4 +29,4 @@
 
 # DSYM stuff
 *.d*
-.py
+*.py
