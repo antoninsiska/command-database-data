@@ -1,2 +1,4 @@
 ahoj|ahoj|Linux
 ahoj1|ahoj|Linux
+test|test|Linux
+test2|test|Linux
